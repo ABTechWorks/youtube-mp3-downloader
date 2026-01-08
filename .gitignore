@@ -12,3 +12,19 @@
 
 pkg/
 src/
+# Ignore downloads folder created by the script
+downloads/
+
+# Ignore local cookies/config files
+cookies.conf
+cookies*.txt
+
+# Ignore system files
+*.log
+*.DS_Store
+*.swp
+
+
+# Ignore compiled files (if you ever add any)
+*.o
+*.class
