@@ -12,6 +12,8 @@
 
 pkg/
 src/
+yt-mp3-env/
+
 # Ignore downloads folder created by the script
 downloads/
 
